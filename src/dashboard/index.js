@@ -1,12 +1,12 @@
 import React, { Component } from "react";
-import Footer from "../reusables/footer";
-import MainNav from "../reusables/mainNav";
-import TopBar from "../reusables/topBar";
+import Footer from "../reuseables/footer";
+import MainNav from "../reuseables/mainNav";
+import TopBar from "../reuseables/topBar";
 import Login from "../auth";
 import { getAllTracking, getFormDetails, updateTracking, switchAuthForm, } from "../redux/actions";
 import { connect } from "react-redux";
-import Loader from "../reusables/formLoader";
-import Modal from "../reusables/modal";
+import Loader from "../reuseables/formLoader";
+import Modal from "../reuseables/modal";
 
 class index extends Component {
   constructor(props) {

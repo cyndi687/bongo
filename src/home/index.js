@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import PreLoader from "../reusables/loader";
-import Footer from "../reusables/footer";
+import PreLoader from "../reuseables/loader";
+import Footer from "../reuseables/footer";
 import CalculateCost from "./calculateCost";
-import MainNav from "../reusables/mainNav";
-import TopBar from "../reusables/topBar";
-import Clients from "./clients";
+import MainNav from "../reuseables/mainNav";
+import TopBar from "../reuseables/topBar";
+// import  Clients from "../reuseables/clients";
 import Auth from "../auth";
 import SmallBanner from "./smallBanner";
 import { connect } from "react-redux";

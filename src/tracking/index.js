@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
-import Footer from '../reusables/footer';
-import MainNav from '../reusables/mainNav'
-import TopBar from '../reusables/topBar';
+import Footer from '../reuseables/footer';
+import MainNav from '../reuseables/mainNav'
+import TopBar from '../reuseables/topBar';
 import Login from '../auth'
 import ProductDetail from './productDetails';
 

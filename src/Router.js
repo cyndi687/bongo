@@ -9,7 +9,7 @@ import Shipping from "./shipment";
 import Dashboard from "./dashboard";
 
 import { reinitializeUser } from "./redux/actions";
-import { connect } from "react-redux";
+import { connect } from "react-redux"
 
 class Router extends Component {
   componentWillMount() {

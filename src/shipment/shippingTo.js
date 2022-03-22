@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { shippingto, getFormDetails, getCountries, getStates, getCities} from "../redux/actions";
-import Loader from "../reusables/formLoader";
+import Loader from "../reuseables/formLoader";
 
 class ShippingTo extends Component {
   componentWillMount() {

@@ -7,7 +7,7 @@ import {
   getStates,
   getCities,
 } from "../redux/actions";
-import Loader from "../reusables/formLoader";
+import Loader from "../reuseables/formLoader";
 
 class ShippingFrom extends Component {
   componentWillMount() {

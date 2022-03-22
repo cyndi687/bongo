@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import Footer from '../reusables/footer';
+import Footer from '../reuseables/footer';
 import CalculateCost from '../home/calculateCost';
-import MainNav from '../reusables/mainNav'
-import TopBar from '../reusables/topBar';
+import MainNav from '../reuseables/mainNav'
+import TopBar from '../reuseables/topBar';
 import Login from '../auth';
-import BreadCrumbs from '../reusables/breadcrumbs';
+import BreadCrumbs from '../reuseables/breadcrumbs';
 import SmallBanner from '../home/smallBanner';
 
 

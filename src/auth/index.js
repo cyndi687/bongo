@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import Login from "./login";
 import Register from "./register";
-import Success from "../reusables/successCard";
+import Success from "../reuseables/successCard";
 import { withRouter } from "react-router-dom";
-import Modal from "../reusables/modal";
+import Modal from "../reuseables/modal";
 import {switchAuthForm} from "../redux/actions"
 
 class index extends Component {

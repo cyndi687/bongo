@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { getFormDetails, trackProducts } from "../redux/actions";
 import { connect } from "react-redux";
-import Loader from "../reusables/formLoader";
+import Loader from "../reuseables/formLoader";
 import moment from "moment";
 
 class ProductDetail extends Component {

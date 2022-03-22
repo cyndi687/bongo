@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { createshipping, getFormDetails } from "../redux/actions";
-import Loader from "../reusables/formLoader";
+import Loader from "../reuseables/formLoader";
 
 class ShipmentDetail extends Component {
   render() {

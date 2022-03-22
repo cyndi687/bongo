@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { getFormDetails, calculatePackageCost } from "../redux/actions";
-import Loader from "../reusables/formLoader";
+import Loader from "../reuseables/formLoader";
 import { numberWithCommas } from "../helper";
 
 class CalculateCost extends Component {

@@ -5,7 +5,7 @@ import {
   loginCustomer,
   switchAuthForm,
 } from "../redux/actions";
-import Loader from "../reusables/formLoader";
+import Loader from "../reuseables/formLoader";
 
 class Login extends Component {
   render() {
