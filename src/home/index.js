@@ -326,7 +326,7 @@ class index extends Component {
                       >
                         {" "}
                         <span>phone number:</span>{" "}
-                        <p className="gray-clr"> +15177597573</p>{" "}
+                        <p className="gray-clr"> +15109993621</p>{" "}
                       </li>
                       <li
                         className="wow slideInUp"

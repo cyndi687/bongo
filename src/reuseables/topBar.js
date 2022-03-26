@@ -27,7 +27,7 @@ class TopBar extends Component {
               <p className="contact-num">
                 {" "}
                 <i className="fa fa-phone" /> Call us now:{" "}
-                <span className="theme-clr"> +15177597573 </span>{" "}
+                <span className="theme-clr"> +15109993621 </span>{" "}
               </p>
 
             </div>
